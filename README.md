@@ -1,6 +1,6 @@
 # Nubank - CTF Challenge
 
-*Disclaimer: I'm just an enthusiast in Security Area/Capture The Flags Challenges. I don't know the answer of this challenge. 
+*Disclaimer: I'm just an enthusiast in Security Area/Capture The Flags Challenges. I don't exactly the answer of this challenge, but I have a guess. 
 This repository is only to gather all information I have about it.*
 
 The challenge was found in the [Job Application for Blue Team](https://boards.greenhouse.io/nubank/jobs/1776009?t=b58135231) of Nubank Jobs Page.
@@ -35,6 +35,17 @@ The extensions usually is `.pcap`, associated with Wireshark; a program used for
 
 ![Wireshark Protocol Hierarchy Statistics](https://i.imgur.com/f6dqLkC.png)
 There is 53.9% of SSH encrypted packets in the dump. Is this a distraction or something helpful?
+
+##### The Answer
+
+I think the answer is in the package 1526. It's a DNS package containing a string `{-/r3g1st3R|W3LC0m3_1337#pc4ps_n3v3r_l13 04/04}`. 
+
+![image](https://user-images.githubusercontent.com/18057391/71772056-22a7bb00-2f23-11ea-8542-3767a0607977.png)
+
+
+![image](https://user-images.githubusercontent.com/18057391/71772040-e5dbc400-2f22-11ea-80f0-289e7920db6c.png)
+
+
 
 ## Contributors
 
