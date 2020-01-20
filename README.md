@@ -3,7 +3,7 @@
 *Disclaimer: I'm just an enthusiast in Security Area/Capture The Flags Challenges. I don't exactly know the answer of this challenge, but I have a guess. 
 This repository is only to gather all information I have about it.*
 
-The challenge was found in the [Job Application for Blue Team](https://boards.greenhouse.io/nubank/jobs/1776009?t=b58135231) of Nubank Jobs Page.
+The challenge was found in the [Job Application for Blue Team](https://boards.greenhouse.io/nubank/jobs/1776009?t=b58135231) of Nubank Jobs Page. (currently the job application page is down)
 
 ![](https://i.imgur.com/IGRqAWv.png)
 
